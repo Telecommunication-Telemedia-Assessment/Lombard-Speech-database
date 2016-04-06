@@ -2,7 +2,7 @@
 
 DOI: 10.5281/zenodo.48713
 
-https://zenodo.org/...
+https://zenodo.org/
 
 Creators:
 Michał Sołoducha, Alexander Raake, Frank Kettler, Peter Voigt
