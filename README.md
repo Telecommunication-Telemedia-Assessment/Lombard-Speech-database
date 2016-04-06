@@ -1,6 +1,6 @@
 # Lombard speech database for German language
 
-DOI: ...
+DOI: 10.5281/zenodo.48713
 
 https://zenodo.org/...
 
