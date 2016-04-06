@@ -8,4 +8,4 @@ Creators:
 Michał Sołoducha, Alexander Raake, Frank Kettler, Peter Voigt
 
 Please cite:
-[Soloducha2016]	Michał Sołoducha, Alexander Raake and Peter Voigt, “Lombard speech database for German language”, Proc. DAGA 2016 Aachen
+[Soloducha2016]	Sołoducha, M., Raake, A., Kettler, F., Voigt, P.: “Lombard speech database for German language”, Proc. DAGA 2016 Aachen
